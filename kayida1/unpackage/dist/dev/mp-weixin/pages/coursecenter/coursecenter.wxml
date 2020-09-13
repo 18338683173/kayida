@@ -1,0 +1,1 @@
+<view class="con data-v-1519f3f4"><view class="course-main top data-v-1519f3f4"><image class="course-banner data-v-1519f3f4" src="{{banner}}" mode></image><video style="width:100%;" src="{{video}}" controls="{{true}}" class="data-v-1519f3f4"></video></view></view>
